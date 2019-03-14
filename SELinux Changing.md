@@ -10,6 +10,7 @@ Download Termux from google play
 Step3
 Open Termux
 
+
 Step4
 Use root mode
 
