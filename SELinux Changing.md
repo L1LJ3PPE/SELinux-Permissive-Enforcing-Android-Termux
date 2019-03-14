@@ -12,17 +12,25 @@ Open Termux
 
 Step4
 Use root mode
+
 $ su
+
 (Give root access termux)
 
 Step5
+
 Show what mode SELinux use now
- $ getenforce
+
+$ getenforce
 
 Step6
+
 Set SELinux 
+ 
  $ setenforce 0
+
 (Permissive)
 
  $ setenforce 1
+
 (Enforcing)
