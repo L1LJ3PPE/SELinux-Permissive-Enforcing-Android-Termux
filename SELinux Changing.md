@@ -1,28 +1,28 @@
 # SELinux-Permissive-Enforcing-Android-Termux
 SELinux Permissive/Enforcing mode change Android with Termux Linux command line.
 
-Step1
+1.
 Root your phone superSU, Magisk etc..
 
-Step2
+2.
 Download Termux from google play
 
-Step3
+3.
 Open Termux
 
-
-Step4
+_____________________________________
+4.
 Use root mode
 
 $ su   (Give root access termux)
 
-Step5
+5.
 
 Show what mode SELinux use now
 
 $ getenforce
 
-Step6
+6.
 
 Set SELinux 
  
@@ -33,3 +33,4 @@ Set SELinux
  $ setenforce 1
 
 (Enforcing)
+____________________________________
