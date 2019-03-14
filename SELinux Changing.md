@@ -9,7 +9,7 @@ SELinux Permissive/Enforcing mode change Android with Termux Linux command line.
 _____________________________________
 4. Use root mode (Give root access termux)
   
-   COMMAND: $ su   
+ COMMAND: $ su   
 
 5. Show what mode SELinux use now
 
