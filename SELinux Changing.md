@@ -13,15 +13,15 @@ _____________________________________
 
 5. Show what mode SELinux use now
 
-   $ getenforce
+$ getenforce
 
 6. Set SELinux 
  
-   $ setenforce 0
+ $ setenforce 0
 
 (Permissive)
 
-  $ setenforce 1
+$ setenforce 1
 
 (Enforcing)
 ____________________________________
