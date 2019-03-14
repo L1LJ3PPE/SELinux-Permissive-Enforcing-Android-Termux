@@ -14,9 +14,7 @@ Open Termux
 Step4
 Use root mode
 
-$ su
-
-(Give root access termux)
+$ su   (Give root access termux)
 
 Step5
 
