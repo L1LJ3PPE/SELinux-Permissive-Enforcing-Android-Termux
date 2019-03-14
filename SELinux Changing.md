@@ -10,6 +10,7 @@ _____________________________________
 4. Use root mode (Give root access termux)
   
    $ su   
+
 5. Show what mode SELinux use now
 
 $ getenforce
